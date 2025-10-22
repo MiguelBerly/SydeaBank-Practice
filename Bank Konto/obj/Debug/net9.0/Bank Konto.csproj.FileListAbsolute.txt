@@ -1,0 +1,14 @@
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.AssemblyInfoInputs.cache
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.AssemblyInfo.cs
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.csproj.CoreCompileInputs.cache
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\bin\Debug\net9.0\Bank Konto.exe
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\bin\Debug\net9.0\Bank Konto.deps.json
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\bin\Debug\net9.0\Bank Konto.runtimeconfig.json
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\bin\Debug\net9.0\Bank Konto.dll
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\bin\Debug\net9.0\Bank Konto.pdb
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.dll
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\refint\Bank Konto.dll
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.pdb
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\Bank Konto.genruntimeconfig.cache
+C:\Users\Migue\OneDrive\Skrivbord\Medieinstitutet SYS25\Introduktion_c#\Bank Konto\Bank Konto\obj\Debug\net9.0\ref\Bank Konto.dll
